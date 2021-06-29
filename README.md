@@ -68,13 +68,17 @@ Test application by opening ``` index.html ``` with default browser.
 ## Finished Product
 
 GitHub Page: https://jamly-miller.github.io/CSS-and-Bootstrap-Responsive-Portfolio/
+
 Main Page:
+
 ![Index-ScreenShot](./assets/images/index.jpg)
 
 Portfolio Page:
+
 ![Portfolio-ScreenShot](./assets/images/protfolio.jpg)
 
 Contact Page:
+
 ![Contact-ScreenShot](./assets/images/contact.jpg)
 
 
