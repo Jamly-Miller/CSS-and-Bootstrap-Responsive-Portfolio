@@ -19,8 +19,6 @@ This is a mobile responsive portfolio using the Bootstrap CSS Framework.
 * [Installation](#installation)
 * [Technologies](#technologies)
 * [Tests](#tests)
-* [Fun](#fun)
-* [Challenges](#challenges)
 * [Finished Product](#finished-product)
 * [Questions](#questions)
 * [Learn More](#learn-more)
