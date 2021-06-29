@@ -3,12 +3,12 @@
 
 ## Description
 
-
+This is a mobile responsive portfolio using the Bootstrap CSS Framework.
 
 
 ## User Story
 
-
+ As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application.
 
 
  
@@ -29,7 +29,15 @@
 ## Usage
 
 ```
-
+GIVEN the responsive portfolio website
+WHEN I open the main page
+THEN I find personal summary
+WHEN I click portfolio button
+THE WEBSITE LEADS ME to portfolio page
+THEN I find projects collection and introduction
+WHEN I click the contact button
+THE WEBSITE LEADS ME to contact page
+THEN I find contact form
 
 ```
 
@@ -40,6 +48,8 @@ Git : https://git-scm.com/downloads
 
 VS Code : https://code.visualstudio.com/download
 
+Bootstrap : by opening ``` npm install bootstrap ``` or visit  https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
 
 ## Technologies
 
@@ -49,20 +59,12 @@ VS Code : https://code.visualstudio.com/download
 
 * VS Code (Visual Studio Code is a streamlined code editor with support for development operations)
 
+* Bootstrap (Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development)
+
 
 ## Testes
 
 Test application by opening ``` index.html ``` with default browser.
-
-                                            
-## Fun
-
-
-
-
-##  Challenges
-
-
 
 
 ## Finished Product
@@ -93,5 +95,5 @@ LinkedIn: https://www.linkedin.com/in/jamly-miller-125307200/
 
 ## Learn More
 
-Wikipedia - Bootstrap : https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)
+A fun article about frameworks : https://www.ideamotive.co/blog/best-frontend-frameworks
 
