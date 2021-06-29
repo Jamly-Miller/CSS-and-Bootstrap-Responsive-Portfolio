@@ -61,6 +61,16 @@ a {
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
 
-.stretched-link-3 {
-    color: $cyan-700;
+#stretched-link-3 {
+    color:rgb(0, 14, 139);
+    font-size: 16px;
+}
+
+#stretched-link-2 {
+    color:rgb(1, 156, 156);    
+    font-size: 16px;
+}
+
+#stretched-link-1 {   
+    font-size: 16px;
 }
