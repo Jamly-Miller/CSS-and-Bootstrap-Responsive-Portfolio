@@ -9,6 +9,14 @@ a {
     border-color: #017c68;
 }
 
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    width: 70%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .navbar {
     background-color: rgb(5, 129, 151);
 }
@@ -21,7 +29,6 @@ a {
     text-decoration: none;
     white-space: nowrap;
 }
-
 
 #nav-link-1 {
     font-family: 'Courier New', Courier, monospace;
@@ -54,11 +61,6 @@ a {
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
 
-
-.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
-    width: 70%;
-    padding-right: var(--bs-gutter-x,.75rem);
-    padding-left: var(--bs-gutter-x,.75rem);
-    margin-right: auto;
-    margin-left: auto;
+.stretched-link-3 {
+    color: $cyan-700;
 }
