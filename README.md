@@ -1,4 +1,4 @@
-# # CSS and Bootstrap: Responsive Portfolio
+# CSS and Bootstrap: Responsive Portfolio
 
 
 ## Description
@@ -49,7 +49,6 @@ VS Code : https://code.visualstudio.com/download
 
 * VS Code (Visual Studio Code is a streamlined code editor with support for development operations)
 
-* Bootstrap (a free and open-source CSS Framework)
 
 ## Testes
 
@@ -70,9 +69,9 @@ Test application by opening ``` index.html ``` with default browser.
 
 GitHub Page: https://jamly-miller.github.io/CSS-and-Bootstrap-Responsive-Portfolio/
 
-![Index-ScreenShot](./assets/images/)
-![Portfolio-ScreenShot](./assets/images/)
-![Contact-ScreenShot](./assets/images/)
+![Index-ScreenShot](./assets/images/index.jpg)
+![Portfolio-ScreenShot](./assets/images/protfolio.jpg)
+![Contact-ScreenShot](./assets/images/contact.jpg)
 
 
 ## Questions
